@@ -9,9 +9,11 @@
   "dependencies": {
     "moment": "^2.14.1",
     "request": "^2.73.0",
-    "should": "^9.0.2"
+    "should": "^9.0.2",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
+    "coffee-script": "^1.10.0",
     "mocha": "^2.5.3",
     "sinon": "^1.17.4"
   },
