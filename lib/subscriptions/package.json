@@ -7,5 +7,8 @@
     "test": "mocha"
   },
   "author": "Will Le",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0"
+  }
 }
